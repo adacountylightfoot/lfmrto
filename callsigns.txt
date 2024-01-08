@@ -4,15 +4,15 @@
 `@version: 0.2.1-alpha`
  
 ### CALLSIGNS
-Batallion Captain              papa       3 
-First Lieutenant               romeo      4 
-HQ / Basecamp                  charlie    2 
-Alpha Company Commander        sierra     0 
-Bravo Company Commander        whiskey    7 
-Charlie Company Commander      quebec     6 
-1st Team Leader                ""         9 
-2nd Team Leader                ""         5 
-3rd Team Leader                ""         8 
-1st Squad Leader               ""         ""         golf
-2nd Squad Leader               ""         ""         yankee
-3rd Squad Leader               ""         ""         alpha
+Batallion Captain              uniform    5 
+First Lieutenant               romeo      9 
+HQ / Basecamp                  lima       2 
+Alpha Company Commander        bravo      3 
+Bravo Company Commander        charlie    8 
+Charlie Company Commander      yankee     1 
+1st Team Leader                ""         6 
+2nd Team Leader                ""         4 
+3rd Team Leader                ""         7 
+1st Squad Leader               ""         ""         whiskey
+2nd Squad Leader               ""         ""         papa
+3rd Squad Leader               ""         ""         juliet
